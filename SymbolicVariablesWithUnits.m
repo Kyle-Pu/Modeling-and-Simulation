@@ -22,5 +22,5 @@ length = 5*units.meter;
 width = 3*units.meter;
 height = 8*units.meter;
 
-% Calculate volume and verify it outputs m^3!
+% Calculate volume and verify it outputs 40 m^3!
 volume = (1 / 3) * length * width * height
